@@ -28,8 +28,5 @@ Each project includes:
 ## 📜 Citation  
 If you reference any work in this repository, please cite accordingly.  
 
-## 📬 Contact  
-📧 [GitHub Email (Private)](mailto:your-github-username@users.noreply.github.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andrewkamya22/)  
 
 🚀 *Advancing statistical methods for real-world longitudinal data challenges!*  
